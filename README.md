@@ -1,4 +1,4 @@
-# Java Script Project 2 - Add Page Number Link
+# Java Script Project 2 - Page Numbering
 https://oprahca.github.io/JSProject2/
 <br><br>
 The project creating for the CSIS 3380 course.<br>
